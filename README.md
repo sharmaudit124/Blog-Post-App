@@ -1,6 +1,6 @@
 # Live Demo of the application 
 
-[Have a look--->](https://resolute-attention.surge.sh/)
+[Checkout the website](https://resolute-attention.surge.sh/)
 
 # Getting Started with Create React App
 
